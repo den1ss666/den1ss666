@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @den1ss666
-- 👀 I’m interested in IOT
+- 👀 I’m interested in IOT/Mechatronics
 - 🌱 I’m currently learning DevOps, Pintest
 - Technical skills:
 -   Programming – LD, ST, SCL, Python
@@ -14,6 +14,7 @@
 *   Emerson - DeltaV MD series
 *   Direct Logic - Dl06, Dl205
 *   Allen Bradley - CompactLogix
+*   Arduino - Uno, Nano
 *   Servers (Dell Poweredge/ HPE)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Telegram: @densh

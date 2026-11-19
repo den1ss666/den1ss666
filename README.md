@@ -1,25 +1,13 @@
-- 👋 Hi, I’m @den1ss666
-- 👀 I’m interested in IOT/Mechatronics
-- 🌱 I’m currently learning DevOps, Pintest
-- Technical skills:
--   Programming – LD, ST, SCL, Python
-*   Computer Vision – Python (OpenCV),
-*   SQL (postrgesql/ms sql/mysql)
-*   Platform - Docker, HomeAssistant, Sprut (sprut.ai)
-*   Automation – Linux, Bash
-*   Dev tools – Git, Siemens tia portal, Emerson DeltaV, Arduino
-*   ModBus TCP, PROFIBUS, Z-wave, Zigbee protocols
-- Hardware skills:
-*   Siemens - S7 1200, 1500, S400H
-*   Emerson - DeltaV MD series
-*   Direct Logic - Dl06, Dl205
-*   Allen Bradley - CompactLogix
-*   Arduino - Uno, Nano
-*   Servers (Dell Poweredge/ HPE)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Telegram: @densh
+# Denis Kharisov
 
-<!---
-den1ss666/den1ss666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Инженер АСУ ТП и DevOps: промышленная автоматизация, мониторинг, немного робототехники и кода, который всё это связывает.
+
+**Стек:** Python · Go · Bash · Docker · Ansible · Prometheus/Grafana · Siemens TIA Portal · Arduino/ESP32
+
+**Проекты:**
+
+- [tic-tac-toe-gui](https://github.com/den1ss666/tic-tac-toe-gui) — крестики-нолики с ИИ на Go и Fyne
+- [Robot-Ruka](https://github.com/den1ss666/Robot-Ruka) — четырёхосевой манипулятор на Arduino
+- [vk_bot2](https://github.com/den1ss666/vk_bot2) — выгрузка постов и видео из групп ВКонтакте
+
+**Связь:** Telegram [@densh](https://t.me/densh)
